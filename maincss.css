@@ -1,0 +1,40 @@
+header{background: fixed url(./rusa.jpg); height: 70vh;
+    -webkit-background-size:cover;
+background-size: cover;
+background-position: center center;
+position: relative;text-align: center;padding-top: 50px;padding-bottom: 50px; }
+header img{
+    width: 300px;
+    border: 7px solid rgb(216, 131, 131);
+}
+header h2{
+    font-family: 'Pacifico', cursive;
+    font-size: 100px;
+    color: pink;
+    stroke: azure;
+}
+section img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin: 40px 0px 0px 0px;
+}
+.container1{
+    color: white;
+    font-family: 'Pacifico';
+    color: pink;
+    margin: 100px 0px;
+}
+.container1 p{
+    font-family: sans-serif;
+    color: white;
+}
+.container1 h1{
+    padding: 20px 0px;
+}
+footer{
+    background-color: #2df5eb;
+}
+.testimonials{
+    padding: 30px 0px;
+}
